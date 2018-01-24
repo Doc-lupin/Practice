@@ -1,0 +1,7 @@
+<html>
+<hl> this is my new website</hl>
+ <ul>
+   <li><a href='page2.html'>link to page 2 </a></li>
+   <li><a href='page3.html'>link to page 3 </a></li>
+ </ul>
+<html>
